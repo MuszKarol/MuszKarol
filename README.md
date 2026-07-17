@@ -5,7 +5,6 @@
 ### Software Engineer · Java & Kotlin · Backend / Full-Stack
 
 [![GitHub](https://img.shields.io/badge/GitHub-MuszKarol-181717?style=for-the-badge&logo=github)](https://github.com/MuszKarol)
-[![Email](https://img.shields.io/badge/Email-karol.szum13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karol.szum13@gmail.com)
 
 </div>
 
@@ -18,7 +17,6 @@
 - 🧩 Experienced with **microservices architecture**, REST APIs (OpenAPI-first) and reactive programming
 - ⚙️ Enthusiast of **DevOps practices** — Docker, Jenkins CI/CD, monitoring with Prometheus & Grafana
 - 🤖 Exploring **Python tooling & AI-assisted automation** in side projects
-- 🤝 Open to collaboration on **open-source projects**
 
 ---
 
@@ -80,26 +78,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Habits Tracker App** — [backend](https://github.com/MuszKarol/habits_tracker_app-backend) · [mobile](https://github.com/MuszKarol/habits_tracker_app-mobile_frontend) · [OpenAPI](https://github.com/MuszKarol/habits_tracker_app-openapi) · [CI](https://github.com/MuszKarol/habits_tracker_app-jenkins) | Multi-repo habit tracking platform: Spring Boot REST API designed OpenAPI-first, native Android client and a Jenkins CI/CD pipeline | Java, Kotlin, Spring Boot, Jenkins |
+| **Habits Tracker App** — [backend](https://github.com/MuszKarol/habits_tracker_app-backend) · [mobile](https://github.com/MuszKarol/habits_tracker_app-mobile_frontend) · [OpenAPI](https://github.com/MuszKarol/habits_tracker_app-openapi). | Multi-repo habit tracking platform: Spring Boot REST API designed OpenAPI-first, native Android client | Java, Kotlin, Spring Boot |
 | [**StreakCraft**](https://github.com/MuszKarol/streak-craft) | Android app for tracking habits and goals — streaks, progress visualization and PDF reports | Kotlin, Android |
 | [**E-commerce Microservices**](https://github.com/MuszKarol/ecommerceMicroservicesPrototype) | Prototype of an e-commerce platform built with a microservices architecture | Java, Spring Cloud, Docker |
-| [**Timeline Diary**](https://github.com/MuszKarol/timeline-diary-rest-backend) — [frontend](https://github.com/MuszKarol/timeline-diary-rest-frontend) | Full-stack diary application with a REST backend and a TypeScript SPA frontend | Java, Spring Boot, TypeScript |
 | [**Automotive Service**](https://github.com/MuszKarol/automotive-service-api) — [frontend](https://github.com/MuszKarol/automotive-service-angular) | Workshop management system: Spring Boot API with an Angular client | Java, Spring Boot, Angular |
 | [**Smart Data Organizer**](https://github.com/MuszKarol/smart-data-organizer) | Python automation tooling for organizing and processing data | Python |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuszKarol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MuszKarol&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuszKarol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-</div>
 
 ---
 
