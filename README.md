@@ -1,31 +1,23 @@
 <h1 align="center">Karol Musz</h1>
 
 <p align="center">
-  Java Software Engineer &nbsp;·&nbsp; Backend &amp; Distributed Systems
+  Java Software Engineer &nbsp;·&nbsp; Backend Engineering &amp; DevOps
 </p>
 
-<p align="center">
-  <a href="https://github.com/MuszKarol?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-1F2937?style=flat-square&logo=github&logoColor=white" alt="Repositories">
-  </a>
-</p>
-
----
+<p align="center">•&nbsp;&nbsp;•&nbsp;&nbsp;•</p>
 
 ### About
 
-Backend engineer working primarily with **Java** and the **Spring** ecosystem.
-I design and build service-oriented systems — REST APIs specified OpenAPI-first,
-microservices communicating over well-defined contracts, and the delivery
-pipelines that keep them shipping.
+I'm a backend engineer who lives mostly in Java and the Spring ecosystem, building
+service-oriented systems: REST APIs specified OpenAPI-first, microservices that talk
+to each other over well-defined contracts, and the delivery pipelines that get them
+into production and keep them healthy once they're there. I write native Android
+clients in Kotlin and pick up TypeScript and Angular when a project needs a full-stack
+hand, and I care about what happens after deployment as much as the code itself —
+containerizing builds with Docker and Kubernetes, wiring up CI/CD in Jenkins, and
+watching it all through Prometheus, Grafana, and SonarQube.
 
-- Java · Spring Boot · Hibernate — REST APIs, microservices, reactive programming
-- Kotlin — native Android clients
-- TypeScript · Angular — full-stack when the project calls for it
-- Docker · Kubernetes · Jenkins — containerized builds and CI/CD
-- Prometheus · Grafana · SonarQube — observability and code quality
-
----
+<p align="center">•&nbsp;&nbsp;•&nbsp;&nbsp;•</p>
 
 ### Technologies
 
@@ -71,21 +63,3 @@ pipelines that keep them shipping.
 
 ![Android](https://img.shields.io/badge/Android-1F2937?style=flat-square&logo=android&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-1F2937?style=flat-square&logo=angular&logoColor=white)
-
----
-
-### Selected Work
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Habits Tracker** — [api](https://github.com/MuszKarol/habits_tracker_app-backend) · [mobile](https://github.com/MuszKarol/habits_tracker_app-mobile_frontend) · [contract](https://github.com/MuszKarol/habits_tracker_app-openapi) | Multi-repository habit tracking platform: Spring Boot REST API designed contract-first, with a native Android client | Java, Kotlin, Spring Boot |
-| [**E-commerce Microservices**](https://github.com/MuszKarol/ecommerceMicroservicesPrototype) | Prototype e-commerce platform decomposed into independently deployable services | Java, Spring Cloud, Docker |
-| [**Automotive Service**](https://github.com/MuszKarol/automotive-service-api) · [frontend](https://github.com/MuszKarol/automotive-service-angular) | Workshop management system — Spring Boot API with an Angular front end | Java, Spring Boot, Angular |
-| [**StreakCraft**](https://github.com/MuszKarol/streak-craft) | Android application for habits and goals: streaks, progress visualization, PDF reports | Kotlin, Android |
-| [**Smart Data Organizer**](https://github.com/MuszKarol/smart-data-organizer) | Automation tooling for organizing and processing data sets | Python |
-
----
-
-<p align="center">
-  <sub>Open to backend and full-stack collaboration.</sub>
-</p>
