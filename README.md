@@ -1,7 +1,7 @@
 <h1 align="center">Karol Musz</h1>
 
 <p align="center">
-  Java Software Engineer &nbsp;·&nbsp; Backend Engineering &amp; DevOps
+  Java Software Engineer &nbsp;·&nbsp; Backend Engineering
 </p>
 
 <p align="center">•&nbsp;&nbsp;•&nbsp;&nbsp;•</p>
