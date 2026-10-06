@@ -4,20 +4,11 @@
   Java Software Engineer &nbsp;·&nbsp; Backend Engineering
 </p>
 
-<p align="center">•&nbsp;&nbsp;•&nbsp;&nbsp;•</p>
-
 ### About
 
-I'm a backend engineer who lives mostly in Java and the Spring ecosystem, building
-service-oriented systems: REST APIs specified OpenAPI-first, microservices that talk
-to each other over well-defined contracts, and the delivery pipelines that get them
-into production and keep them healthy once they're there. I write native Android
-clients in Kotlin and pick up TypeScript and Angular when a project needs a full-stack
-hand, and I care about what happens after deployment as much as the code itself —
-containerizing builds with Docker and Kubernetes, wiring up CI/CD in Jenkins, and
-watching it all through Prometheus, Grafana, and SonarQube.
-
-<p align="center">•&nbsp;&nbsp;•&nbsp;&nbsp;•</p>
+I'm a software developer with 4+ years of experience, focused on backend applications.
+I work mostly with Java and Spring Boot - building REST APIs and microservices, and taking
+care of what happens after the code ships: Docker, Kubernetes, CI/CD and monitoring.
 
 ### Technologies
 
@@ -28,7 +19,6 @@ watching it all through Prometheus, Grafana, and SonarQube.
 ![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1F2937?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-1F2937?style=flat-square&logo=gnubash&logoColor=white)
 
 **Backend**
